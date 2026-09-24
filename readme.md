@@ -10,7 +10,7 @@ This project documents the proposed AWS architecture for a SaaS application expe
 
 The architecture is designed to be **scalable, highly available, secure and cost-conscious**, without requiring a major redesign as the platform grows.
 
-For the full documentation list, start from [index.md](index.md).
+For the full documentation list, start from [index.md](./docs/index.md).
 
 ## Architecture
 
