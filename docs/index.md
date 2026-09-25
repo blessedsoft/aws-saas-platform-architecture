@@ -5,7 +5,7 @@ This documentation describes a practical AWS architecture for a SaaS application
 ## Start Here
 
 - [Overview](./readme.md) - summary architecture and design decisions
-- [Architecture](./01-architecture.md) - overall AWS service choices
+- [Architecture](01-architecture.md) - overall AWS service choices
 - [Network Design](./02-network-design.md) - VPC, subnets, routing and security groups
 - [Frontend Design](./03-frontend-design.md) - S3 and CloudFront setup
 - [API Platform](./04-api-platform.md) - ECS Fargate, ECR and ALB
